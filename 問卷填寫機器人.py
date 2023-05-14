@@ -57,4 +57,4 @@ for i in range(1,101):
         browser.find_element(By.XPATH, '//*[@id="mG61Hd"]/div[2]/div/div[2]/div[9]/div/div/div[2]/div[1]/span/div/label['+y+']/div[2]/div/div/div[3]/div').click()
         break
     browser.find_element(By.XPATH, '//*[@id="mG61Hd"]/div[2]/div/div[3]/div/div[1]/div[2]/span/span').click()
-    sleep(3)5
+    sleep(3)
