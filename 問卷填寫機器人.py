@@ -58,3 +58,4 @@ for i in range(1,101):
         break
     browser.find_element(By.XPATH, '//*[@id="mG61Hd"]/div[2]/div/div[3]/div/div[1]/div[2]/span/span').click()
     sleep(3)
+browser.quit()
